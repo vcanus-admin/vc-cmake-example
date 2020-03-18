@@ -14,5 +14,7 @@ Makefile
 Makefile/*
 bin
 bin/*
+lib
+lib/*
 log
 log/*
