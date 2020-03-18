@@ -1,6 +1,0 @@
-[2020-03-17 17:21:42.812581] [0x000000010de24dc0] [trace]: This is a trace severity message
-[2020-03-17 17:21:42.813208] [0x000000010de24dc0] [debug]: This is a debug severity message
-[2020-03-17 17:21:42.813236] [0x000000010de24dc0] [info]: This is an informational severity message
-[2020-03-17 17:21:42.813257] [0x000000010de24dc0] [warning]: This is a warning severity message
-[2020-03-17 17:21:42.813275] [0x000000010de24dc0] [error]: This is an error severity message
-[2020-03-17 17:21:42.813292] [0x000000010de24dc0] [fatal]: and this is a fatal severity message
